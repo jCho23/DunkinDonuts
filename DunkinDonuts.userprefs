@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7ECAAE18-AE36-42EE-B259-0A6E3BFED480}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DunkinDonuts/Tests.cs">
+    <Files>
+      <File FileName="DunkinDonuts/AppInitializer.cs" Line="32" Column="5" />
+      <File FileName="DunkinDonuts/Tests.cs" Line="34" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DunkinDonuts PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
