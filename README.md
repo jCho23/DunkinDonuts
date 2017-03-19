@@ -1,14 +1,14 @@
 # DunkinDonuts
 Automation Test Scripts for Dunkin Donuts
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
